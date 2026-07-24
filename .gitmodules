@@ -5,6 +5,9 @@
 [submodule "Rtwalk"]
 	path = Rtwalk
 	url = https://github.com/rodrigosqrt3/rtwalk
+[submodule "margEVT"]
+	path = margEVT
+	url = https://github.com/rodrigosqrt3/margevt
 [submodule "rmet"]
 	path = rmet
 	url = https://github.com/rodrigosqrt3/rmet
